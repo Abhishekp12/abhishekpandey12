@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Pandey
 
-### Frontend Software Engineer | React.js | TypeScript | Next.js
+### Frontend Software Engineer | React.js | Javascript | TypeScript | Next.js
 
 Frontend Engineer with 3.8+ years of experience building scalable, high-performance web applications using React.js, TypeScript, JavaScript, Redux Toolkit, and Next.js.
 
